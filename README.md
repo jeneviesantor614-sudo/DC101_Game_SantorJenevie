@@ -17,8 +17,5 @@ This project was created as part of the DC 101 Mini Arcade Game using *HTML, CSS
 - CSS
 - JavaScript
 
-## 📸 Screenshot (Optional)
-![Memory Match Screenshot](screenshot.png)
-
 ## 👩‍💻 Author
 Santor, Jenevie  
