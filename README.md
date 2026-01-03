@@ -1,21 +1,51 @@
-# DC101_MemoryMatch_SantorJenevie
-## 🎮 Game Description
-Memory Match is a browser-based game where the player matches pairs of cards.  
-The game has *three difficulty levels*: Easy, Medium, and Hard, which determine the number of cards in the game.  
-This project was created as part of the DC 101 Mini Arcade Game using *HTML, CSS, and JavaScript*.
+🎮 Memory Match Game
+📌 Game Description
 
-## 🕹️ How to Play
-1. Open the game in your web browser.
-2. Choose a difficulty level: *Easy*, *Medium*, or *Hard*.
-3. Click two cards to flip them.
-4. If the cards match, they stay open.
-5. If they do not match, they flip back.
-6. Match all pairs to win the game.
+The Memory Match Game is a browser-based mini arcade game where players flip cards to find matching pairs. The objective is to match all the cards before the time runs out. The game tests the player’s memory, focus, and speed.
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+The game includes three difficulty levels: Easy, Medium, and Hard, allowing players to choose their preferred challenge. Each level increases the number of cards, making the game more exciting.
 
-## 👩‍💻 Author
-Santor, Jenevie  
+The game has a time limit of 50 seconds. If the player fails to match all cards before the timer ends, the game will automatically result in a loss.
+
+🛠️ Technologies Used
+
+HTML – for structuring the game layout
+
+CSS – for styling, design, and background visuals
+
+JavaScript – for game logic, timer, card matching, and difficulty levels
+
+▶️ Instructions to Run the Game
+
+Download or clone this repository.
+
+Open the project folder.
+
+Open the index.html file using any web browser (Google Chrome, Microsoft Edge, or Firefox).
+
+Select a difficulty level (Easy, Medium, or Hard).
+
+Start the game and match all cards before the 50-second timer ends.
+
+⏱️ Game Rules
+
+Choose one difficulty level: Easy, Medium, or Hard.
+
+Flip the cards to find matching pairs.
+
+The game has a 50-second time limit.
+
+If the timer reaches zero and not all cards are matched, the player loses.
+
+If all cards are matched before the time runs out, the player wins.
+
+🖼️ Screenshot / Background Image
+
+This image is used as the background of the game
+
+![Game Background](assets/bg.png)
+
+👤 Author
+
+Jenevie Santor
+DC 101 – Mini Arcade Game Project
