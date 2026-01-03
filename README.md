@@ -43,9 +43,9 @@ If all cards are matched before the time runs out, the player wins.
 
 This image is used as the background of the game
 
-![Game Background](assets/bg.png)
+![Game Background](assets/bg<img width="2000" height="1121" alt="image" src="https://github.com/user-attachments/assets/3803bf94-c06b-4f19-a899-2911e23d4adf" />
+.png)
 
 👤 Author
-
 Jenevie Santor
 DC 101 – Mini Arcade Game Project
